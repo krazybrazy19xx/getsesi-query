@@ -1,2 +1,3 @@
 # getsesi-query
-sudah gratis banyak ngeluh
+wajib telethon==1.36.0
+submit api di .env
