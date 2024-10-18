@@ -1,0 +1,7 @@
+telethon==1.36.0
+faker
+rich
+colorama
+python-dotenv
+requests
+tqdm
